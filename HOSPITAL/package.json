@@ -1,0 +1,14 @@
+{
+  "name": "hospital",
+  "version": "1.0.0",
+  "main": "doctor.models.js",
+  "scripts": {
+    "start": "npm medical_record.models.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mongoose": "^8.7.1"
+  }
+}
